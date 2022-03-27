@@ -3,4 +3,4 @@
 
 import { ads } from './data.js';
 
-console.log(ads(5));
+ads(8);
